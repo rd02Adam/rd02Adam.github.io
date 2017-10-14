@@ -1,42 +1,45 @@
+#Welcome to GitHub Pages#
 
-
-## #Welcome to GitHub Pages# ###
 21	"rd01Apple"	"rd01Apple1980"	"rd01Apple"	"rd01Apple1980"
 
-You can use the [editor on GitHub](https://github.com/rd01Apple/rd01apple.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
-### 2017-09-23: Abbie says: ###
+2017-09-23: Abbie says:
 
-a.It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+a.It's very easy to make some words bold and other words italic with Markdown. You can even link to Google!
 
 b.Headers
 
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+This is an
+
+tag
+
+This is an
+
+tag
+
+This is an
+
+tag
 
 c.Emphasis
 
-*This text will be italic*
-_This will also be italic_
+This text will be italic This will also be italic
 
-**This text will be bold**
-__This will also be bold__
+This text will be bold This will also be bold
 
-_You **can** combine them_
+You can combine them
 
 Images
 
-![GitHub](/Github.png)
-Format: ![Alt Text]l)(url)
+GitHub Format: ![Alt Text]l)(url)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
 Syntax highlighted code block
 
 # Header 1
@@ -68,7 +71,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 # 2017-09-23 InRich class summary#
 
   Today I learned how to write a Blog wih Github.io. At first, I couldn't put the picture on the Blog page but after Oiver found out that I wrote extra things and so I deleted it. And......IT WORKED !!!! I was so happy. I really like this class, and I wish to come back next time.
-  ![Github](/image1.png)
+  ![Github](/image1.png)
 Format: ![Alt Text]l)(url)
 
 ### 1.
@@ -78,7 +81,6 @@ Format: ![Alt Text]l)(url)
 ### 3.
 [![](./Line Friends.jpg)](https://www.youtube.com/watch?v=1pJd3pm7Kqg)
 
-[![Everything Is AWESOME](https:///Users/mac/Desktop/rd02Peter.github.io-master/index.html)
 
 
 2017/09/30 Abbie says:
